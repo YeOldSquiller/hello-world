@@ -1,5 +1,4 @@
 # hello-world
-Just another repository.
 
 I have been playing computer games for a couple of years.
 I'd love to learn more JavaScript because that is an interest I have.
